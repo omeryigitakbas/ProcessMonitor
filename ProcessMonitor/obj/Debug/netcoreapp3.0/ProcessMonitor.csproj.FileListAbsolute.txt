@@ -1,0 +1,11 @@
+C:\Users\10054730\Desktop\ProcessMonitor\bin\Debug\netcoreapp3.0\ProcessMonitor.exe
+C:\Users\10054730\Desktop\ProcessMonitor\bin\Debug\netcoreapp3.0\ProcessMonitor.deps.json
+C:\Users\10054730\Desktop\ProcessMonitor\bin\Debug\netcoreapp3.0\ProcessMonitor.runtimeconfig.json
+C:\Users\10054730\Desktop\ProcessMonitor\bin\Debug\netcoreapp3.0\ProcessMonitor.runtimeconfig.dev.json
+C:\Users\10054730\Desktop\ProcessMonitor\bin\Debug\netcoreapp3.0\ProcessMonitor.dll
+C:\Users\10054730\Desktop\ProcessMonitor\bin\Debug\netcoreapp3.0\ProcessMonitor.pdb
+C:\Users\10054730\Desktop\ProcessMonitor\obj\Debug\netcoreapp3.0\ProcessMonitor.csprojAssemblyReference.cache
+C:\Users\10054730\Desktop\ProcessMonitor\obj\Debug\netcoreapp3.0\ProcessMonitor.AssemblyInfoInputs.cache
+C:\Users\10054730\Desktop\ProcessMonitor\obj\Debug\netcoreapp3.0\ProcessMonitor.AssemblyInfo.cs
+C:\Users\10054730\Desktop\ProcessMonitor\obj\Debug\netcoreapp3.0\ProcessMonitor.dll
+C:\Users\10054730\Desktop\ProcessMonitor\obj\Debug\netcoreapp3.0\ProcessMonitor.pdb
